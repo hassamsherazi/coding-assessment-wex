@@ -1,0 +1,9 @@
+C:\Users\Dell\source\repos\sample-webapp\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+C:\Users\Dell\source\repos\sample-webapp\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\Dell\source\repos\sample-webapp\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\Dell\source\repos\sample-webapp\DTO\obj\Debug\netcoreapp3.1\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\sample-webapp\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\sample-webapp\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+C:\Users\Dell\source\repos\sample-webapp\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\sample-webapp\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+C:\Users\Dell\source\repos\sample-webapp\DTO\obj\Debug\netcoreapp3.1\DTO.pdb

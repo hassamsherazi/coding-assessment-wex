@@ -1,0 +1,13 @@
+C:\Users\Dell\source\repos\sample-webapp\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Users\Dell\source\repos\sample-webapp\Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\Dell\source\repos\sample-webapp\Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\Dell\source\repos\sample-webapp\Service\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\Dell\source\repos\sample-webapp\Service\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\Dell\source\repos\sample-webapp\Service\obj\Debug\netcoreapp3.1\Service.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\sample-webapp\Service\obj\Debug\netcoreapp3.1\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\sample-webapp\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\sample-webapp\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\Dell\source\repos\sample-webapp\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\sample-webapp\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+C:\Users\Dell\source\repos\sample-webapp\Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Users\Dell\source\repos\sample-webapp\Service\obj\Debug\netcoreapp3.1\Service.pdb
