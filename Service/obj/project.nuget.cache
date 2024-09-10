@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "1fKzuixLWvYZ3fx3XiUxCETu2ZVD8MYcf3WP4ssoqxNQ1O2eSlRmxWVOTbxExZQoPtYSvKbDJNX/t5DBDDJi5Q==",
+  "dgSpecHash": "4sELxtVmoEk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dell\\source\\repos\\sample-webapp\\Service\\Service.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/hassamsherazi/Desktop/Development/coding-assessment/Service/Service.csproj",
+  "expectedPackageFiles": [
+    "/Users/hassamsherazi/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/Users/hassamsherazi/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
   "logs": []
 }

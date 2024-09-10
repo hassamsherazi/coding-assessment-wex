@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "bsRfD3FJjJnKIAT+VtiP43zkb7oUH+TnDlauHSPEBS17CbkHttkAcdjw5uxPNdxWCm03jvg7lAYIsft4wphIuQ==",
+  "dgSpecHash": "vyYl17Q2YXk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dell\\source\\repos\\sample-webapp\\Shared\\Shared.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/hassamsherazi/Desktop/Development/coding-assessment/Shared/Shared.csproj",
+  "expectedPackageFiles": [
+    "/Users/hassamsherazi/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/Users/hassamsherazi/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
   "logs": []
 }

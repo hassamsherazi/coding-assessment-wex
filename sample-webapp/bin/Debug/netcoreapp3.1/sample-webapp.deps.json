@@ -325,7 +325,10 @@
       },
       "DTO/1.0.0": {
         "runtime": {
-          "DTO.dll": {}
+          "DTO.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         },
         "compile": {
           "DTO.dll": {}
@@ -336,7 +339,10 @@
           "DTO": "1.0.0"
         },
         "runtime": {
-          "Service.dll": {}
+          "Service.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         },
         "compile": {
           "Service.dll": {}

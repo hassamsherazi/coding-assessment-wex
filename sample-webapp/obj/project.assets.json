@@ -16,24 +16,13 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "DTO": "1.0.0",
-          "Shared": "1.0.0"
+          "DTO": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Service.dll": {}
         },
         "runtime": {
           "bin/placeholder/Service.dll": {}
-        }
-      },
-      "Shared/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "compile": {
-          "bin/placeholder/Shared.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Shared.dll": {}
         }
       }
     }
@@ -48,60 +37,44 @@
       "type": "project",
       "path": "../Service/Service.csproj",
       "msbuildProject": "../Service/Service.csproj"
-    },
-    "Shared/1.0.0": {
-      "type": "project",
-      "path": "../Shared/Shared.csproj",
-      "msbuildProject": "../Shared/Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "DTO >= 1.0.0",
-      "Service >= 1.0.0",
-      "Shared >= 1.0.0"
+      "Service >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Dell\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/Users/hassamsherazi/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\sample-webapp\\sample-webapp\\sample-webapp.csproj",
+      "projectUniqueName": "/Users/hassamsherazi/Desktop/Development/coding-assessment/sample-webapp/sample-webapp.csproj",
       "projectName": "sample-webapp",
-      "projectPath": "C:\\Users\\Dell\\source\\repos\\sample-webapp\\sample-webapp\\sample-webapp.csproj",
-      "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\source\\repos\\sample-webapp\\sample-webapp\\obj\\",
+      "projectPath": "/Users/hassamsherazi/Desktop/Development/coding-assessment/sample-webapp/sample-webapp.csproj",
+      "packagesPath": "/Users/hassamsherazi/.nuget/packages/",
+      "outputPath": "/Users/hassamsherazi/Desktop/Development/coding-assessment/sample-webapp/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/hassamsherazi/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Dell\\source\\repos\\sample-webapp\\DTO\\DTO.csproj": {
-              "projectPath": "C:\\Users\\Dell\\source\\repos\\sample-webapp\\DTO\\DTO.csproj"
+            "/Users/hassamsherazi/Desktop/Development/coding-assessment/DTO/DTO.csproj": {
+              "projectPath": "/Users/hassamsherazi/Desktop/Development/coding-assessment/DTO/DTO.csproj"
             },
-            "C:\\Users\\Dell\\source\\repos\\sample-webapp\\Service\\Service.csproj": {
-              "projectPath": "C:\\Users\\Dell\\source\\repos\\sample-webapp\\Service\\Service.csproj"
-            },
-            "C:\\Users\\Dell\\source\\repos\\sample-webapp\\Shared\\Shared.csproj": {
-              "projectPath": "C:\\Users\\Dell\\source\\repos\\sample-webapp\\Shared\\Shared.csproj"
+            "/Users/hassamsherazi/Desktop/Development/coding-assessment/Service/Service.csproj": {
+              "projectPath": "/Users/hassamsherazi/Desktop/Development/coding-assessment/Service/Service.csproj"
             }
           }
         }
@@ -110,6 +83,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -121,10 +99,25 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.10, 3.1.10]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.osx-x64",
+            "version": "[3.1.32, 3.1.32]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -133,7 +126,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/RuntimeIdentifierGraph.json"
       }
     }
   }

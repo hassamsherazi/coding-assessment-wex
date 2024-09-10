@@ -1,0 +1,11 @@
+/Users/hassamsherazi/Desktop/Development/coding-assessment/Shared/bin/Debug/netcoreapp3.1/Shared.deps.json
+/Users/hassamsherazi/Desktop/Development/coding-assessment/Shared/bin/Debug/netcoreapp3.1/Shared.dll
+/Users/hassamsherazi/Desktop/Development/coding-assessment/Shared/bin/Debug/netcoreapp3.1/Shared.pdb
+/Users/hassamsherazi/Desktop/Development/coding-assessment/Shared/obj/Debug/netcoreapp3.1/Shared.csproj.AssemblyReference.cache
+/Users/hassamsherazi/Desktop/Development/coding-assessment/Shared/obj/Debug/netcoreapp3.1/Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hassamsherazi/Desktop/Development/coding-assessment/Shared/obj/Debug/netcoreapp3.1/Shared.AssemblyInfoInputs.cache
+/Users/hassamsherazi/Desktop/Development/coding-assessment/Shared/obj/Debug/netcoreapp3.1/Shared.AssemblyInfo.cs
+/Users/hassamsherazi/Desktop/Development/coding-assessment/Shared/obj/Debug/netcoreapp3.1/Shared.csproj.CoreCompileInputs.cache
+/Users/hassamsherazi/Desktop/Development/coding-assessment/Shared/obj/Debug/netcoreapp3.1/Shared.sourcelink.json
+/Users/hassamsherazi/Desktop/Development/coding-assessment/Shared/obj/Debug/netcoreapp3.1/Shared.dll
+/Users/hassamsherazi/Desktop/Development/coding-assessment/Shared/obj/Debug/netcoreapp3.1/Shared.pdb

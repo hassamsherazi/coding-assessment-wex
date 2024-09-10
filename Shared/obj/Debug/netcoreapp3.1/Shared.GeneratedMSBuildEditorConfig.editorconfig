@@ -1,3 +1,5 @@
 is_global = true
 build_property.RootNamespace = Shared
-build_property.ProjectDir = C:\Users\Dell\source\repos\sample-webapp\Shared\
+build_property.ProjectDir = /Users/hassamsherazi/Desktop/Development/coding-assessment/Shared/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
